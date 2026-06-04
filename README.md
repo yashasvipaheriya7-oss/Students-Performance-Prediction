@@ -1,2 +1,2 @@
 # Students-Performance-Prediction
-To Analyze the Students marks.
+To Analyze the Student marks.
